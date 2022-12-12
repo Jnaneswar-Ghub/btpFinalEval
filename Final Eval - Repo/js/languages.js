@@ -1,0 +1,27 @@
+var langs = [
+	['English', ['en-AU', 'Australia'], ['en-CA', 'Canada'],
+		['en-IN', 'India'], ['en-KE', 'Kenya'],
+		['en-TZ', 'Tanzania'], ['en-GH', 'Ghana'],
+		['en-NZ', 'New Zealand'], ['en-NG', 'Nigeria'],
+		['en-ZA', 'South Africa'], ['en-PH', 'Philippines'],
+		['en-GB', 'United Kingdom'], ['en-US', 'United States']],
+	['Español', ['es-AR', 'Argentina'], ['es-BO', 'Bolivia'],
+		['es-CL', 'Chile'], ['es-CO', 'Colombia'],
+		['es-CR', 'Costa Rica'], ['es-EC', 'Ecuador'],
+		['es-SV', 'El Salvador'], ['es-ES', 'España'],
+		['es-US', 'Estados Unidos'], ['es-GT', 'Guatemala'],
+		['es-HN', 'Honduras'], ['es-MX', 'México'],
+		['es-NI', 'Nicaragua'], ['es-PA', 'Panamá'],
+		['es-PY', 'Paraguay'], ['es-PE', 'Perú'],
+		['es-PR', 'Puerto Rico'],
+		['es-DO', 'República Dominicana'], ['es-UY', 'Uruguay'],
+		['es-VE', 'Venezuela']],
+	['ಕನ್ನಡ', ['kn-IN']],
+	['മലയാളം', ['ml-IN']],
+	['मराठी', ['mr-IN']],
+	['தமிழ்', ['ta-IN', 'இந்தியா'], ['ta-SG', 'சிங்கப்பூர்'],
+		['ta-LK', 'இலங்கை'], ['ta-MY', 'மலேசியா']],
+	['తెలుగు', ['te-IN']],
+	['हिन्दी', ['hi-IN']]];
+
+
